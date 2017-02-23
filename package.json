@@ -1,0 +1,28 @@
+{
+  "name": "phantomas-reporter-zabbix",
+  "version": "1.0.0",
+  "description": "phantomas reporter for zabbix (zabbix_sender)",
+  "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/lazzrek/phantomas-reporter-zabbix.git",
+    "type": "git"
+  },
+  "keywords": [
+    "phantomas",
+    "phantomjs",
+    "reporter",
+    "metrics",
+    "high performance web sites",
+    "monitoring",
+    "web development",
+    "web performance",
+    "webperf",
+    "zabbix"
+  ],
+  "author": "Mel Teichmann <mel.teichmann@convx.net>",
+  "license": "MIT",
+  "dependencies": {
+    "zabbix-sender": "^0.2.0"
+  },
+  "devDependencies": {}
+}
