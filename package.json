@@ -19,7 +19,7 @@
     "webperf",
     "zabbix"
   ],
-  "author": "Mel Teichmann <mel.teichmann@convx.net>",
+  "author": "Mel Teichmann <me.teichmann@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "zabbix-sender": "^0.2.0"
