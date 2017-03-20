@@ -2,7 +2,7 @@
 
 Zabbix reporter for phantomas
 
-##Parameters
+## Parameters
 
 ```
 --zabbix-config         The configuration file to use. Default: /etc/zabbix/zabbix_agentd.conf
